@@ -36,7 +36,7 @@
 #endif
 
 // Ignore temp readings during development.
-//#define BOGUS_TEMPERATURE_GRACE_PERIOD    2000
+#define BOGUS_TEMPERATURE_GRACE_PERIOD    4000
 
 //
 // Steppers
